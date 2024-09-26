@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dockland</title>
+    <link>https://github.com/PrajwalSD/Dockland/releases/appcast.xml</link>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:releaseNotesLink>https://github.com/PrajwalSD/Dockland/release-notes/Dockland-v1.0.0.html</sparkle:releaseNotesLink>
+      <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
+      <enclosure
+          url="https://github.com/PrajwalSD/Dockland/bin/Dockland-1.0.0.dmg"
+          sparkle:version="1"
+          sparkle:shortVersionString="1.0.0"
+          length="12345678"
+          type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
+      <sparkle:signature>BASE64_SIGNATURE</sparkle:signature>
+    </item>
+  </channel>
+</rss>
