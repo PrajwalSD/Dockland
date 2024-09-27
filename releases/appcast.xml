@@ -1,21 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Dockland</title>
-    <link>https://github.com/PrajwalSD/Dockland/releases/appcast.xml</link>
-    <language>en</language>
-    <item>
-      <title>Version 1.0.0</title>
-      <sparkle:releaseNotesLink>https://github.com/PrajwalSD/Dockland/release-notes/Dockland-v1.0.0.html</sparkle:releaseNotesLink>
-      <pubDate>Thu, 26 Sep 2024 12:00:00 +0000</pubDate>
-      <enclosure
-          url="https://github.com/PrajwalSD/Dockland/bin/Dockland-1.0.0.dmg"
-          sparkle:version="1"
-          sparkle:shortVersionString="1.0.0"
-          length="12345678"
-          type="application/octet-stream"/>
-      <sparkle:minimumSystemVersion>10.14.0</sparkle:minimumSystemVersion>
-      <sparkle:signature>BASE64_SIGNATURE</sparkle:signature>
-    </item>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dockland</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Fri, 27 Sep 2024 11:16:34 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/PrajwalSD/Dockland/releases/download/production/Dockland.dmg" length="1759850" type="application/octet-stream" sparkle:edSignature="H9SEeOKkZ9c6NZfiBPlvrEyoIaXHDRliF9bY1O34JgisdmOGbta5vXQmeaV7QurKdyVRxjIIjT7R5wDJEczTDA=="/>
+        </item>
+    </channel>
 </rss>
