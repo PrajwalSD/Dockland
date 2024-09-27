@@ -3,12 +3,12 @@
     <channel>
         <title>Dockland</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Fri, 27 Sep 2024 11:16:34 +0100</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>0.9.1</title>
+            <pubDate>Fri, 27 Sep 2024 12:47:57 +0100</pubDate>
+            <sparkle:version>0.9.1</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PrajwalSD/Dockland/releases/download/production/Dockland.dmg" length="1759850" type="application/octet-stream" sparkle:edSignature="H9SEeOKkZ9c6NZfiBPlvrEyoIaXHDRliF9bY1O34JgisdmOGbta5vXQmeaV7QurKdyVRxjIIjT7R5wDJEczTDA=="/>
+            <enclosure url="https://github.com/PrajwalSD/Dockland/releases/download/v0.9.1/Docklandv0.9.1.dmg" length="1762208" type="application/octet-stream" sparkle:edSignature="VeZUVBgXJDS76NoM6ZXNr+gT6gBM7KIEXaCEKxrK4yL+f0QFiNUVlA6LvkX4VOwlxDQ4yYX/XXeBM2pzbSgfAQ=="/>
         </item>
     </channel>
 </rss>
